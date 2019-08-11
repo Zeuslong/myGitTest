@@ -6,6 +6,8 @@
 public class Test {
     public static void main(String[] args) {
         int a =20;
+        int b=50;
+        System.out.println("test git reset --hard 4efe8fa");
         System.out.println("zh");
     }
 }
