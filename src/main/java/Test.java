@@ -13,6 +13,8 @@ public class Test {
         System.out.println("test git reset --hard 4efe8fa");
 
         System.out.println("zh");
+
+        System.out.println("别人错误提价后，重新捞取过去的版本");
     }
 
     public void test(){
