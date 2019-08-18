@@ -7,6 +7,7 @@ public class Test {
     public static void main(String[] args) {
         int a =20;
         int c=30;
+        int e=40;
 
         int d=40;
         System.out.println("this is myGitTest");
@@ -15,6 +16,10 @@ public class Test {
         System.out.println("test git reset --hard 4efe8fa");
 
         System.out.println("zh");
+    }
+
+    public void test(){
+        System.out.println("tihs  is a merge test");
     }
 
     public void domyOwn(Integer integer){
