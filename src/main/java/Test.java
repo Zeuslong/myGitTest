@@ -18,6 +18,7 @@ public class Test {
         System.out.println("zh");
 
         System.out.println("别人错误提价后，重新捞取过去的版本");
+        System.out.println("尝试一下-------");
     }
 
     public void test(){
